@@ -44,6 +44,6 @@ public class Main {
         }
         System.out.println("Tổng tiền của 10 cuốn sách là : " + totalCost);
         System.out.println("Số sách có category là 'Viễn tưởng 1' : " + vienTuong1BookCount);
-        System.out.println("Số sách có giá dưới 100 là : " + cheapBookCount);
+        System.out.println("Số sách Fiction có giá dưới 100 là : " + cheapBookCount);
     }
 }
